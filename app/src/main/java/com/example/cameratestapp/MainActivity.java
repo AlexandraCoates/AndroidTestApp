@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
             textViewAnswer.setText(Double.toString(result));
         }
     }
-
+    // Launches the second activity with the button using an intent //
     public void launchSecondActivity(View view){
         Log.d(LOG_TAG, "Button Clicked");
         Intent intent = new Intent(this, activityNext.class);
