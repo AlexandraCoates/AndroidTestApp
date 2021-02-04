@@ -17,3 +17,5 @@ Added the "cheat" files - contain useful shit that I kept forgetting, they are n
 Gonna add a fuckton of stuff to do with SQLlite, either in its own named file or just shoehorned into the main prog.
 
 Like I said, this is reference repo.
+
+NOTE: YOU NEED THIS: https://sqlitebrowser.org/
